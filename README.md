@@ -1,72 +1,65 @@
-# 🚀 Welcome to My Digital World!
+# Welcome to My Digital World
 
-## 👨‍💻 I'm Vinod Kumar
+## Hi, I'm Vinod Kumar
 
-💡 Digital Marketing Enthusiast | Future SEO Expert  
-📍 Hyderabad, Sindh, Pakistan  
+Digital Marketing Enthusiast | Future SEO Expert  
+Hyderabad, Sindh, Pakistan  
 
----
-
-## 🌟 About Me
-
-I am a passionate Digital Marketing student who loves helping businesses grow online.  
-I focus on **SEO, Social Media Marketing, Content Creation**, and learning **programming fundamentals**.  
-I enjoy turning ideas into measurable growth and creating impactful online campaigns.
+I am passionate about helping businesses grow online using SEO, social media strategies, content creation, and programming fundamentals.  
+I turn ideas into measurable digital growth and create impactful campaigns.  
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-| Skill | Level |
-|-------|-------|
-| SEO | Expert |
-| Social Media Marketing | Advanced |
-| Content Creation | Intermediate |
-| Digital Marketing | Intermediate |
-| HTML | Basic |
-| CSS | Basic |
-| C Language | Basic |
-| CIT & DIT | Certified |
+SEO - Expert  
+Social Media Marketing - Advanced  
+Content Creation - Intermediate  
+Digital Marketing - Intermediate  
+HTML - Basic  
+CSS - Basic  
+C Language - Basic  
+CIT & DIT - Certified  
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Advanced SEO Strategies  
-- Google Ads & Analytics  
-- Content Marketing  
-- Programming & Web Development  
-
----
-
-## 📈 Achievements & Stats
-
-- SEO Campaigns Managed: **5+**  
-- Social Media Accounts Managed: **3+**  
-- Content Pieces Created: **50+**  
-- Website Traffic Growth Achieved: **20%+**  
+Advanced SEO Strategies  
+Google Ads & Analytics  
+Content Marketing  
+Programming & Web Development  
 
 ---
 
-## 🌐 Connect With Me
+## Achievements & Highlights
 
-- 🔗 LinkedIn: [Vinod Kumar](https://www.linkedin.com/in/vinod-kumar02/)  
-- 🔗 Behance: [Vinod Kumar](https://www.behance.net/55c431fa)  
-- 📧 Email: [vksootar786@gmail.com](mailto:vksootar786@gmail.com)  
-- 📱 WhatsApp: [03222476588](https://wa.me/923222476588)  
-
----
-
-## ⚡ Fun Fact
-
-✨ "I turn ideas into digital growth 🚀"  
+SEO Campaigns Managed: 5+  
+Social Media Accounts Managed: 3+  
+Content Pieces Created: 50+  
+Website Traffic Growth Achieved: 20%+  
 
 ---
 
-## 📌 Featured Projects
+## Connect With Me
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Digital Marketing Portfolio | SEO, Social Media, Content Campaigns | [Behance](https://www.behance.net/55c431fa) |
-| Personal Website | HTML, CSS, Basic Web Dev | *Coming Soon* |
-| SEO Case Study | Improved website traffic 20%+ | *Coming Soon* |
+LinkedIn: [Vinod Kumar](https://www.linkedin.com/in/vinod-kumar02/)  
+Behance: [Vinod Kumar](https://www.behance.net/55c431fa)  
+Email: [vksootar786@gmail.com](mailto:vksootar786@gmail.com)  
+WhatsApp: [03222476588](https://wa.me/923222476588)  
+
+---
+
+## Fun Fact
+
+"I turn ideas into digital growth"  
+
+---
+
+## Featured Projects
+
+Digital Marketing Portfolio – SEO, Social Media, Content Campaigns. Check it on [Behance](https://www.behance.net/55c431fa).  
+
+Personal Website – HTML & CSS based personal project. Coming Soon.  
+
+SEO Case Study – Improved website traffic by 20%+. Coming Soon.  
